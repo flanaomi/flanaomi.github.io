@@ -1,2 +1,2 @@
 # flanaomi.github.io
-Currículo flanaomi
+Atividade realizada na Jornada DEV da EBAC - montagem de curriculo
